@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madmaude215's Page</title>
+    <style>
+        body {
+            background-color: #1c1c1c;
+            color: #d8bfd8;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4b0082;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        a {
+            color: #d8bfd8;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #9370db;
+        }
+        .socials {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #4b0082;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Madmaude215's World</h1>
+</header>
+
+<section>
+    <p>Hey, I'm Madison Maude, but you can call me Madmaude215!</p>
+    <p>Check out my social media accounts below:</p>
+    <div class="socials">
+        <p><strong>TikTok:</strong> <a href="https://www.tiktok.com/@madmaude215witmydog" target="_blank">@madmaude215witmydog</a></p>
+        <p><strong>Instagram:</strong> <a href="https://www.instagram.com/nuh_uh________________________" target="_blank">@nuh_uh________________________</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>Thanks for visiting!</p>
+</footer>
+
+</body>
+</html>
